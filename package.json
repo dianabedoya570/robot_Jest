@@ -1,0 +1,23 @@
+{
+  "name": "robot_jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "robot.js",
+  "scripts": {
+    "test": "jest src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianabedoya570/robot_Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dianabedoya570/robot_Jest/issues"
+  },
+  "homepage": "https://github.com/dianabedoya570/robot_Jest#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
