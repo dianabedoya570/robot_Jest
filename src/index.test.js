@@ -107,6 +107,6 @@ describe("turnRight",()=>{
     it("Should upload robot position in a rout",()=>{
         const result = createRobot(10,5,'S');
         result.instructions("AARAALAALA");
-        expect(result.getPosition()).toMatchObject({x:9,y:1,orientation:'W'})
+        expect(result.getPosition()).toMatchObject({x:9,y:1,orientation:'E'})
     })
  });
